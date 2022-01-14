@@ -1,0 +1,14 @@
+C:\Users\micle\source\repos\Pb13\Pb13\bin\Debug\netcoreapp3.1\Pb13.exe
+C:\Users\micle\source\repos\Pb13\Pb13\bin\Debug\netcoreapp3.1\Pb13.deps.json
+C:\Users\micle\source\repos\Pb13\Pb13\bin\Debug\netcoreapp3.1\Pb13.runtimeconfig.json
+C:\Users\micle\source\repos\Pb13\Pb13\bin\Debug\netcoreapp3.1\Pb13.runtimeconfig.dev.json
+C:\Users\micle\source\repos\Pb13\Pb13\bin\Debug\netcoreapp3.1\Pb13.dll
+C:\Users\micle\source\repos\Pb13\Pb13\bin\Debug\netcoreapp3.1\Pb13.pdb
+C:\Users\micle\source\repos\Pb13\Pb13\obj\Debug\netcoreapp3.1\Pb13.csproj.AssemblyReference.cache
+C:\Users\micle\source\repos\Pb13\Pb13\obj\Debug\netcoreapp3.1\Pb13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micle\source\repos\Pb13\Pb13\obj\Debug\netcoreapp3.1\Pb13.AssemblyInfoInputs.cache
+C:\Users\micle\source\repos\Pb13\Pb13\obj\Debug\netcoreapp3.1\Pb13.AssemblyInfo.cs
+C:\Users\micle\source\repos\Pb13\Pb13\obj\Debug\netcoreapp3.1\Pb13.csproj.CoreCompileInputs.cache
+C:\Users\micle\source\repos\Pb13\Pb13\obj\Debug\netcoreapp3.1\Pb13.dll
+C:\Users\micle\source\repos\Pb13\Pb13\obj\Debug\netcoreapp3.1\Pb13.pdb
+C:\Users\micle\source\repos\Pb13\Pb13\obj\Debug\netcoreapp3.1\Pb13.genruntimeconfig.cache
