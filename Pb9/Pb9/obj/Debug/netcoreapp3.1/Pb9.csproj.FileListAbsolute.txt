@@ -1,0 +1,14 @@
+C:\Users\micle\source\repos\Pb9\Pb9\bin\Debug\netcoreapp3.1\Pb9.exe
+C:\Users\micle\source\repos\Pb9\Pb9\bin\Debug\netcoreapp3.1\Pb9.deps.json
+C:\Users\micle\source\repos\Pb9\Pb9\bin\Debug\netcoreapp3.1\Pb9.runtimeconfig.json
+C:\Users\micle\source\repos\Pb9\Pb9\bin\Debug\netcoreapp3.1\Pb9.runtimeconfig.dev.json
+C:\Users\micle\source\repos\Pb9\Pb9\bin\Debug\netcoreapp3.1\Pb9.dll
+C:\Users\micle\source\repos\Pb9\Pb9\bin\Debug\netcoreapp3.1\Pb9.pdb
+C:\Users\micle\source\repos\Pb9\Pb9\obj\Debug\netcoreapp3.1\Pb9.csproj.AssemblyReference.cache
+C:\Users\micle\source\repos\Pb9\Pb9\obj\Debug\netcoreapp3.1\Pb9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micle\source\repos\Pb9\Pb9\obj\Debug\netcoreapp3.1\Pb9.AssemblyInfoInputs.cache
+C:\Users\micle\source\repos\Pb9\Pb9\obj\Debug\netcoreapp3.1\Pb9.AssemblyInfo.cs
+C:\Users\micle\source\repos\Pb9\Pb9\obj\Debug\netcoreapp3.1\Pb9.csproj.CoreCompileInputs.cache
+C:\Users\micle\source\repos\Pb9\Pb9\obj\Debug\netcoreapp3.1\Pb9.dll
+C:\Users\micle\source\repos\Pb9\Pb9\obj\Debug\netcoreapp3.1\Pb9.pdb
+C:\Users\micle\source\repos\Pb9\Pb9\obj\Debug\netcoreapp3.1\Pb9.genruntimeconfig.cache
